@@ -1,4 +1,3 @@
-# tugas
 package javaapplication14;
 public class ArrayLinearList {
     protected Object [] element,element2;
